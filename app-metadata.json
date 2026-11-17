@@ -1,0 +1,13 @@
+{
+  "name": "blocky",
+  "source": "https://0xerr0r.github.io/blocky/latest/",
+  "docker_image": "spx01/blocky:development",
+  "version": "development",
+  "repository": "https://github.com/waskevin/tnas-app-blocky",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "description": "blocky container application prepared for TerraMaster TOS",
+  "submission_status": "not_submitted"
+}
