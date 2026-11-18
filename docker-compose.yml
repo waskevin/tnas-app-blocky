@@ -1,0 +1,6 @@
+services:
+  blocky:
+    image: spx01/blocky:development
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai
